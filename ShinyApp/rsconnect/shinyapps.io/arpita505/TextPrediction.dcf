@@ -1,0 +1,12 @@
+name: TextPrediction
+title: TextPrediction
+username:
+account: arpita505
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1566342
+bundleId: 2643894
+url: https://arpita505.shinyapps.io/TextPrediction/
+when: 1575558575.27755
+asMultiple: FALSE
+asStatic: FALSE
